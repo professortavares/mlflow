@@ -115,3 +115,4 @@ dmypy.json
 
 /mlflow_env/*
 /.idea/*
+*/mlruns/*

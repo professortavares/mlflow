@@ -39,6 +39,3 @@ or update (if you want to add some package):
 ```
 pip install --upgrade --force-reinstall -r requirements.txt
 ```
-
-
-mlflow server  --backend-store-uri sqlite:///mlflow.db --default-artifact-root ./mlruns
